@@ -16,6 +16,6 @@ This project showcases a comprehensive strategy for organic and paid social medi
 - **Paid Advertising**: Facebook Ads, Instagram Ads, and Google Ads campaign setup and management.
 - **Data Analytics**: Performance analysis using Google Analytics, Facebook Insights, and Instagram Analytics.
 - **Client Communication:** Developing strategies that align with client goals and expectations.
-SEO & SEM: Optimizing posts and ads to reach the right audience.
+- **SEO & SEM**: Optimising posts and ads to reach the right audience.
 
 Project Management: Time management, deadlines, and collaboration using tools like Trello or Asana.
